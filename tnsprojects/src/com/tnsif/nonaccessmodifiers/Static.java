@@ -3,7 +3,7 @@ package com.tnsif.nonaccessmodifiers;
 public class Static {
 	static int count;
 	static {
-		count=80;
+		count=40;
 		System.out.println("show static"+"count assignied:"+count);
 	}
 	static void show() {
